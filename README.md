@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: https://www.linkedin.com/in/sahil-muneer
 
 ---
 
