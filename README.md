@@ -1,11 +1,18 @@
 # Hi, I'm Sahil 👋
 
 🎓 ECE Student  
-🔧 Interested in IoT & Embedded Systems  
-🚀 Building real-world assistive technology projects  
+🔧 Embedded Systems & IoT Enthusiast
 
-## 🔥 Projects
-- Smart Glove for Parkinson’s Patients  
+## 🚀 Projects
 
-## 📫 Contact
-- GitHub: https://github.com/your-username
+- 🧤 IoT-Based Smart Glove for Parkinson’s Assistance  
+- 🎮 Haptic VR Training System  
+
+## 🛠️ Skills
+- Arduino  
+- Embedded Systems  
+- Sensors & MPU6050  
+- C Programming  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sahil-muneer
