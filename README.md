@@ -1,8 +1,7 @@
 # Hi, I'm Sahil 👋
 
 🎓 Electronics & Communication Engineering Student  
-🔧 Passionate about Embedded Systems & IoT  
-🏆 1st & 2nd Place Hackathon Winner  
+🔧 Passionate about Embedded Systems & IoT
 
 ---
 
@@ -13,10 +12,6 @@
 - Motor-based feedback for stabilization  
 - 🏆 1st Place – Tech Fusion 2.0  
 
-### 🎮 Haptic VR Training System
-- Arduino-based physical controller  
-- Real-time VR interaction using Unity  
-- 🥈 2nd Place – Aavishkar Hackathon  
 
 ---
 
